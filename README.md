@@ -11,14 +11,13 @@
 
 <div align="center">
 <h3>Languages and Tools</h3>
-<img src="https://img.shields.io/badge/++%20-111111.svg?&style=for-the-badge&logo=c&logoColor=darkblue">
+<img src="https://img.shields.io/badge/++%20-111111.svg?&style=for-the-badge&logo=c&logoColor=blue">
 <img src="https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=green">
 <img src="https://img.shields.io/badge/telegraf.js%20-111111.svg?&style=for-the-badge&logo=telegraf.js&logoColor=red">
 <img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=darkyellow>">
 <img src="https://img.shields.io/badge/Sublime Text%20-111111.svg?&style=for-the-badge&logo=Sublime Text&logoColor=darkorange">
 <img src="https://img.shields.io/badge/Microsoft Azure%20-111111.svg?&style=for-the-badge&logo=Microsoft Azure&logoColor=blue>">
 
-<img src="https://img.shields.io/badge/++%20-111111.svg?&style=for-the-badge&logo=c&logoColor=darkblue">
 </div>
 
 <div align="center">
