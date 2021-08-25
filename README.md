@@ -11,8 +11,7 @@
 
 <div align="center">
 <h3>Dillər və İstifadə Etdiyim Alətlər</h3>
-<a href="https://www.cplusplus.com" target"blank_"><img src="https://img.shields.io/badge/++%20-111111.svg?&style=for-the-badge&logo=c&logoColor=blue"></a>
-   
+<a href="https://www.cplusplus.com" target"blank_"><img src="https://img.shields.io/badge/++%20-111111.svg?&style=for-the-badge&logo=c&logoColor=blue"></a> <a href="https://nodejs.org" target"blank_"><img src="https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=green"></a>
 <a href="https://nodejs.org" target"blank_"><img src="https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=green"></a>
 <a href="https://telegraf.js.org" target"blank_"><img src="https://img.shields.io/badge/telegraf.js%20-111111.svg?&style=for-the-badge&logo=telegraf.js&logoColor=red"></a>
 <a href="https://javascript.com" target"blank_"><img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=darkyellow>"></a>
