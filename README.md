@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Sublime Text%20-111111.svg?&style=for-the-badge&logo=Sublime Text&logoColor=darkorange">
 <img src="https://img.shields.io/badge/Microsoft Azure%20-111111.svg?&style=for-the-badge&logo=Microsoft Azure&logoColor=blue>">
 
-<img src="https://img.shields.io/badge/C++%20-111111.svg?&style=for-the-badge&logo=C++&logoColor=red">
+<img src="https://img.shields.io/badge/C%20-111111.svg?&style=for-the-badge&logo=C&logoColor=red">
 </div>
 
 <div align="center">
