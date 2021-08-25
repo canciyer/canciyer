@@ -3,7 +3,7 @@
 <h3>Sosial Media Hesablar</h3>
 <a href="https://t.me/husnuehedov" target"blank_"><img src="https://img.shields.io/badge/Telegram%20-111111.svg?&style=for-the-badge&logo=telegram&logoColor=blue"></a>
 <a href="https://instagram.com/ehedov.v1p_" target"blank_"><img src="https://img.shields.io/badge/Instragram%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=pink"></a>
-<a href="https://wa.me/+994506523005" target"blank_"><img src="https://img.shields.io/badge/WhatsApp%20-111111.svg?&style=for-the-badge&logo=whatsapp&logoColor=yellow"></a>
+<a href="https://wa.me/+994506523005" target"blank_"><img src="https://img.shields.io/badge/WhatsApp%20-111111.svg?&style=for-the-badge&logo=whatsapp&logoColor=green"></a>
 <a href="https://www.youtube.com/channel/UC3ptTlBZufQiFzz1nzwYyhg" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=red"></a>
 <a href="https://github.com/sirincay" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
