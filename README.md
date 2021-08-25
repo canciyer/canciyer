@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/telegraf.js%20-111111.svg?&style=for-the-badge&logo=telegraf.js&logoColor=red">
 <img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=darkyellow>">
 <img src="https://img.shields.io/badge/Sublime Text%20-111111.svg?&style=for-the-badge&logo=Sublime Text&logoColor=darkorange">
-<img src="https://img.shields.io/badge/Azure%20-111111.svg?&style=for-the-badge&logo=Azure&logoColor=darkblue>">
+<img src="https://img.shields.io/badge/Microsoft Azure%20-111111.svg?&style=for-the-badge&logo=Microsoft Azure&logoColor=darkblue>">
 
 <img src="https://img.shields.io/badge/Cpp%20-111111.svg?&style=for-the-badge&logo=Cpp&logoColor=darkblue">
 </div>
