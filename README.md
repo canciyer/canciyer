@@ -13,7 +13,7 @@
 <h3>Languages and Tools</h3>
 <a <img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"> </a>
 
-<img src="https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=green">
 <img src="https://img.shields.io/badge/Python%20-111111.svg?&style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Discord.Js%20-111111.svg?&style=for-the-badge&logo=Discord.Js&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code%20-111111.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white>">
