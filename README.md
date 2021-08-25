@@ -10,7 +10,7 @@
 
 
 <div align="center">
-<h3>Languages and Tools</h3>
+<h3>Dillər və Alətlər</h3>
 <img src="https://img.shields.io/badge/++%20-111111.svg?&style=for-the-badge&logo=c&logoColor=blue">
 <img src="https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=green">
 <img src="https://img.shields.io/badge/telegraf.js%20-111111.svg?&style=for-the-badge&logo=telegraf.js&logoColor=red">
